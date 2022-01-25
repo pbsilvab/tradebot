@@ -14,8 +14,8 @@ import (
 )
 
 const baseurl string = "https://api.binance.com"
-const secret string = "dlC5QpjX3XsGLnMYXtGEai3qwUWVbTlevwb0p2mF57YpWZMIW6YuUISPgk9DBe05"
-const apikey string = "BjasgLPc4dV2fLevjr0XbRP6LPZ7aYk31wTY00PBezR8mheDffCvHQVyFARFNqMn"
+const secret string = ""
+const apikey string = ""
 
 type requestStruct struct {
 	endpoint string
